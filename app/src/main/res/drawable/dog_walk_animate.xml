@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/dog_walk_salutation" android:duration="600"/>
+    <item android:drawable="@drawable/dog_walk_static" android:duration="650"/>
+    <item android:drawable="@drawable/dog_walk_pull" android:duration="600"/>
+</animation-list>
